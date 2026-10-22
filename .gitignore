@@ -1,0 +1,28 @@
+# Runtime data and credentials
+config.json
+logs/
+*.log
+
+# Temporary browser profiles
+browser-profile/
+edge-profile/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Packaging
+build/
+dist/
+*.spec
+
+# Editors and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

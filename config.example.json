@@ -1,0 +1,19 @@
+{
+  "encrypted_token": "",
+  "interval_seconds": 30,
+  "mode": "notify",
+  "armed": false,
+  "instance_uuid": "",
+  "gpu_spec_uuid": "",
+  "gpu_display_name": "",
+  "image_uuid": "",
+  "gpu_amount": 1,
+  "cuda_v_from": 0,
+  "regions": [],
+  "instance_name": "autodl-watch",
+  "start_command": "",
+  "max_created_instances": 1,
+  "retry_cooldown_seconds": 300,
+  "window_x": 40,
+  "window_y": 40
+}
